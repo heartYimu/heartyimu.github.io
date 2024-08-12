@@ -239,216 +239,222 @@ body:after {
 .article-entry dt {
   font-weight: bold;
 }
+@font-face {
+  font-family: "iconfont";
+  src: url("//at.alicdn.com/t/c/font_4552607_tq6stt6tcg.woff2") format('woff2'), url("//at.alicdn.com/t/c/font_4552607_tq6stt6tcg.woff") format('woff'), url("//at.alicdn.com/t/c/font_4552607_tq6stt6tcg.ttf") format('truetype');
+  font-display: swap;
+}
 .tag-wrap .archives-tag-list-link:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f02b";
+  font-family: "iconfont";
+  content: "\e622";
 }
 .category-wrap .archives-category-list-link:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f02e";
+  font-family: "iconfont";
+  content: "\e604";
 }
 .article-date-link:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f017";
+  font-family: "iconfont";
+  content: "\e606";
 }
 .article-category-link:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f02e";
+  font-family: "iconfont";
+  content: "\e604";
 }
 .article-tag-list-link:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f02b";
+  font-family: "iconfont";
+  content: "\e622";
 }
 .article-comment-link:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f075";
+  font-family: "iconfont";
+  content: "\e608";
 }
 .icon-copyright:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f1f9";
+  font-family: "iconfont";
+  content: "\e60a";
 }
 .icon-brush:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f1fc";
+  font-family: "iconfont";
+  content: "\e618";
 }
 .icon-coffee:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f0f4";
+  font-family: "iconfont";
+  content: "\e607";
 }
 .icon-eye:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f06e";
+  font-family: "iconfont";
+  content: "\e60f";
 }
 .icon-user:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f007";
+  font-family: "iconfont";
+  content: "\e628";
 }
 #main-nav-toggle:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f0c9";
+  font-family: "iconfont";
+  content: "\e62f";
 }
 #nav-rss-link:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f09e";
+  font-family: "iconfont";
+  content: "\e61f";
 }
 #nav-search-btn:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f002";
+  font-family: "iconfont";
+  content: "\e631";
 }
 #nav-sun-btn:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f185";
+  font-family: "iconfont";
+  content: "\e621";
 }
 #nav-moon-btn:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f186";
+  font-family: "iconfont";
+  content: "\e617";
 }
 .icon-copy:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f0c5";
+  font-family: "iconfont";
+  content: "\e60c";
 }
 .icon-chevron-down:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f078";
+  font-family: "iconfont";
+  content: "\e609";
 }
 .icon-check:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f00c";
+  font-family: "iconfont";
+  content: "\e636";
 }
 .icon-times:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f00d";
+  font-family: "iconfont";
+  content: "\e637";
 }
 .post-meta .icon-calendar:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f073";
+  font-family: "iconfont";
+  content: "\e605";
 }
 .post-meta .icon-pencil:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f5ad";
-}
-.post-meta .icon-clock:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f252";
-}
-.post-sticky:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f164";
-}
-.reimu-popup .popup-btn-close:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f057";
-}
-.reimu-search-input-icon:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f002";
-}
-.ais-pagination--item__previous a:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f104";
-}
-.ais-pagination--item__next a:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f105";
-}
-.icon-github:before {
-  content: "\f09b";
-}
-.icon-google:before {
-  content: "\f0d5";
-}
-.icon-facebook:before {
-  content: "\f09a";
-}
-.icon-twitter:before {
+  font-family: "iconfont";
   content: "\e61b";
 }
+.post-meta .icon-clock:before {
+  font-family: "iconfont";
+  content: "\e613";
+}
+.post-sticky:before {
+  font-family: "iconfont";
+  content: "\e627";
+}
+.reimu-popup .popup-btn-close:before {
+  font-family: "iconfont";
+  content: "\e626";
+}
+.reimu-search-input-icon:before {
+  font-family: "iconfont";
+  content: "\e631";
+}
+.ais-pagination--item__previous a:before {
+  font-family: "iconfont";
+  content: "\e601";
+}
+.ais-pagination--item__next a:before {
+  font-family: "iconfont";
+  content: "\e630";
+}
+.icon-github:before {
+  font-family: "iconfont";
+  content: "\e619";
+}
+.icon-google:before {
+  content: "\e611";
+}
+.icon-facebook:before {
+  content: "\e60e";
+}
+.icon-twitter:before {
+  content: "\e62a";
+}
 .icon-instagram:before {
-  content: "\f16d";
+  content: "\e615";
 }
 .icon-linkedin:before {
-  content: "\f08c";
+  content: "\e614";
 }
 .icon-pinterest:before {
-  content: "\f0d2";
+  content: "\e61a";
 }
 .icon-youtube:before {
-  content: "\f167";
+  content: "\e62d";
 }
 .icon-vimeo:before {
-  content: "\f194";
+  content: "\e629";
 }
 .icon-flickr:before {
-  content: "\f16e";
+  content: "\e612";
 }
 .icon-dribbble:before {
-  content: "\f17d";
+  content: "\e610";
 }
 .icon-behance:before {
-  content: "\f1b4";
+  content: "\e602";
 }
 .icon-bilibili:before {
-  content: "\e3d9";
+  content: "\e603";
 }
 .icon-weibo:before {
-  content: "\f18a";
+  content: "\e62c";
 }
 .icon-zhihu:before {
-  content: "\f63f";
+  content: "\e62e";
 }
 .icon-reddit:before {
-  content: "\f1a1";
+  content: "\e61c";
 }
 .icon-tumblr:before {
-  content: "\f173";
+  content: "\e625";
 }
 .icon-medium:before {
-  content: "\f23a";
+  content: "\e616";
 }
 .icon-deviantart:before {
-  content: "\f1bd";
+  content: "\e60b";
 }
 .icon-stackoverflow:before {
-  content: "\f16c";
+  content: "\e620";
 }
 .icon-keybase:before {
-  content: "\f4f5";
+  content: "\e61e";
 }
 .icon-telegram:before {
-  content: "\f2c6";
+  content: "\e623";
 }
 .icon-discord:before {
-  content: "\f392";
+  content: "\e60d";
 }
 .icon-steam:before {
-  content: "\f1b6";
+  content: "\e624";
 }
 .icon-email:before {
-  content: "\f0e0";
+  content: "\e63c";
 }
 .sidebar-btn-wrapper .sidebar-toc-btn:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f0e8";
+  font-family: "iconfont";
+  content: "\e633";
 }
 .sidebar-btn-wrapper .sidebar-common-btn:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\e3af";
+  font-family: "iconfont";
+  content: "\e632";
 }
 .sidebar-top .arrow-up:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f062";
+  font-family: "iconfont";
+  content: "\e634";
 }
 .icon-link:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f0c1";
+  font-family: "iconfont";
+  content: "\e639";
 }
 .icon-globe:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f0ac";
+  font-family: "iconfont";
+  content: "\e638";
 }
 .icon-creative-commons:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
-  content: "\f25e";
+  font-family: "iconfont";
+  content: "\e63a";
 }
 html,
 body,
@@ -564,6 +570,7 @@ html,
 body,
 #container {
   height: 100%;
+  cursor: var(--cursor-default);
 }
 body {
   background: var(--color-background);
@@ -576,6 +583,23 @@ body {
 body ::selection {
   background: var(--red-1);
   color: #fff;
+}
+a {
+  cursor: var(--cursor-pointer) !important;
+}
+.site-search input {
+  cursor: var(--cursor-text) !important;
+}
+#main span,
+#main p,
+#main code,
+#main kbd,
+#main input,
+#main textarea {
+  cursor: var(--cursor-text) !important;
+}
+#main nav span {
+  cursor: var(--cursor-default) !important;
 }
 .outer {
   max-width: 1220px;
@@ -640,6 +664,15 @@ body ::selection {
 }
 #content.outer {
   overflow: visible;
+}
+@media screen and (min-width: 960px) {
+  #main {
+    padding: 0;
+    display: inline;
+    float: left;
+    width: 73.33333333333333%;
+    margin: 0 0.833333333333333%;
+  }
 }
 #mask {
   display: none;
@@ -821,7 +854,7 @@ body ::selection {
   height: 14px;
   padding: 20px 15px;
   position: relative;
-  cursor: pointer;
+  cursor: var(--cursor-pointer);
 }
 [data-theme="dark"] .main-nav-link,
 [data-theme="dark"] .main-nav-icon,
@@ -850,7 +883,7 @@ body ::selection {
   background: url("../images/taichi.png") no-repeat center/80%;
   transform: rotate(0deg);
   transition: transform 1s ease;
-  cursor: pointer;
+  cursor: var(--cursor-pointer);
 }
 #main-nav-toggle {
   display: none;
@@ -981,7 +1014,7 @@ a.article-title:hover {
 .article-entry h4:before,
 .article-entry h5:before,
 .article-entry h6:before {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
+  font-family: "iconfont";
   font-weight: normal;
 }
 .article-entry h1 a,
@@ -990,7 +1023,7 @@ a.article-title:hover {
 .article-entry h4 a,
 .article-entry h5 a,
 .article-entry h6 a {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands", "FontAwesome";
+  font-family: "iconfont";
   opacity: 0.5;
   margin-right: 5px;
   transition: all 0.3s ease;
@@ -2082,7 +2115,7 @@ pre .javascript .function {
   margin: 5px;
   z-index: 1;
   filter: invert(50%);
-  cursor: pointer;
+  cursor: var(--cursor-pointer);
   color: #fff;
 }
 .code-lang {
@@ -2091,13 +2124,13 @@ pre .javascript .function {
   font-weight: bold;
   z-index: 1;
   filter: invert(50%);
-  cursor: pointer;
+  cursor: var(--cursor-pointer);
 }
 .code-expand {
   margin: 5px;
   filter: invert(50%);
   z-index: 1;
-  cursor: pointer;
+  cursor: var(--cursor-pointer);
   transition: all 0.3s;
   transform: rotate(0deg);
   color: #fff;
@@ -2325,7 +2358,7 @@ pre .javascript .function {
   font: 20px bold;
   text-transform: uppercase;
   vertical-align: middle;
-  cursor: pointer;
+  cursor: var(--cursor-pointer);
   padding-left: 15px;
   top: 8px;
 }
@@ -2356,6 +2389,7 @@ pre .javascript .function {
 }
 .reimu-powered {
   float: right;
+  cursor: var(--cursor-default) !important;
 }
 .reimu-powered img {
   display: inline-block;
@@ -2541,6 +2575,479 @@ pre .javascript .function {
 .post-link-card-wrap .post-link-card .post-link-card-item-wrap .post-link-card-excerpt .icon-link {
   font-size: 12px;
   margin-right: 5px;
+}
+@media screen and (max-width: 959px) {
+  #sidebar {
+    display: none;
+  }
+}
+@media screen and (min-width: 960px) {
+  #sidebar {
+    display: inline;
+    float: left;
+    width: 23.333333333333332%;
+    margin: 0 0.833333333333333%;
+    height: inherit;
+  }
+}
+[data-theme="dark"] .sidebar-wrap {
+  box-shadow: 0 0 10px 3px var(--color-hover-shadow);
+}
+[data-theme="dark"] #mobile-nav .sidebar-wrap {
+  box-shadow: 0 0 0 0;
+}
+.sidebar-wrap {
+  width: 100%;
+  border-radius: 5px;
+  background: var(--color-wrap);
+  display: flex;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: unset;
+  transition: all 0.3s ease;
+}
+.sidebar-wrap .hidden {
+  display: none;
+}
+.sidebar-wrap.wrap-sticky {
+  position: sticky;
+  top: 5px;
+}
+.sidebar-wrap:hover {
+  transform: scale(1.015);
+  box-shadow: 0 0 10px 3px var(--color-hover-shadow);
+}
+#mobile-nav .sidebar-wrap:hover {
+  transform: scale(1);
+  box-shadow: 0 0 0 0;
+}
+.sidebar-author {
+  display: flex;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.sidebar-author img {
+  display: block;
+  min-width: 100px;
+  min-height: 100px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  transition: opacity 0.3s ease;
+  opacity: 0;
+  object-fit: cover;
+  margin: 20px;
+  box-shadow: 0 0 15px 5px rgba(255,0,0,0.2);
+}
+.sidebar-author img.lazyloaded {
+  opacity: 1;
+  animation: blur 0.8s ease forwards;
+}
+.sidebar-author .sidebar-author-name {
+  font-weight: bold;
+  font-size: 20px;
+  color: #f77;
+  margin: 10px;
+}
+.sidebar-author .sidebar-description {
+  color: #777;
+}
+.sidebar-state .sidebar-state-article,
+.sidebar-state .sidebar-state-category,
+.sidebar-state .sidebar-state-tag {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  padding: 0 20px;
+}
+.sidebar-state .sidebar-state-article div,
+.sidebar-state .sidebar-state-category div,
+.sidebar-state .sidebar-state-tag div {
+  margin: 5px 0;
+}
+.sidebar-state {
+  display: flex;
+  justify-content: center;
+  padding: 25px 0;
+  color: var(--red-0);
+  opacity: 0.6;
+  transition: opacity 0.5s ease;
+}
+.sidebar-state:hover {
+  opacity: 1;
+}
+.sidebar-state .sidebar-state-article {
+  border-right: 1px solid rgba(255,0,0,0.5);
+}
+.sidebar-state .sidebar-state-tag {
+  border-left: 1px solid rgba(255,0,0,0.5);
+}
+.sidebar-state .sidebar-state-number {
+  font-weight: bold;
+  font-size: 20px;
+}
+.sidebar-social {
+  display: flex;
+  flex-shrink: 0;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  flex-wrap: wrap;
+}
+.sidebar-social div a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.sidebar-social-icon {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 36px;
+  height: 25px;
+  font: 20px "iconfont";
+  transition: transform 0.2s ease;
+}
+.sidebar-social-icon:hover {
+  transform: scale(1.2);
+}
+.icon-email {
+  color: #f77;
+}
+.icon-github {
+  color: #191717;
+}
+.icon-google {
+  color: #4285f4;
+}
+.icon-facebook {
+  color: #3b5998;
+}
+.icon-twitter {
+  color: #191717;
+}
+.icon-instagram {
+  color: #e1306c;
+}
+.icon-linkedin {
+  color: #0e76a8;
+}
+.icon-pinterest {
+  color: #bd081c;
+}
+.icon-youtube {
+  color: #f00;
+}
+.icon-vimeo {
+  color: #1ab7ea;
+}
+.icon-flickr {
+  color: #ff0084;
+}
+.icon-dribbble {
+  color: #ea4c89;
+}
+.icon-behance {
+  color: #1769ff;
+}
+.icon-bilibili {
+  color: #00a1d6;
+}
+.icon-weibo {
+  color: #e6162d;
+}
+.icon-zhihu {
+  color: #0084ff;
+}
+.icon-douban {
+  color: #072;
+}
+.icon-reddit {
+  color: #ff4500;
+}
+.icon-tumblr {
+  color: #35465c;
+}
+.icon-medium {
+  color: #00ab6c;
+}
+.icon-deviantart {
+  color: #05cc47;
+}
+.icon-stackoverflow {
+  color: #f48024;
+}
+.icon-keybase {
+  color: #33a0ff;
+}
+.icon-telegram {
+  color: #08c;
+}
+.icon-discord {
+  color: #7289da;
+}
+.icon-steam {
+  color: #171a21;
+}
+.sidebar-menu-icon,
+.sidebar-menu-link {
+  color: var(--red-0);
+  opacity: 0.8;
+  text-decoration: none;
+  text-shadow: 0 1px rgba(0,0,0,0.2);
+  transition: opacity 0.2s;
+  display: block;
+  padding: 10px 15px;
+}
+.sidebar-menu {
+  margin: 20px 0;
+  width: 100%;
+}
+.sidebar-menu-link-wrap {
+  margin: 8px 50px;
+  display: flex;
+  position: relative;
+  justify-content: center;
+  border: 10px rgba(255,0,0,0.3) double;
+  border-radius: 10px;
+  transition: border 0.5s ease;
+}
+.sidebar-menu-link-wrap:hover {
+  border: 10px var(--color-h2-after) double;
+}
+.sidebar-menu-link-wrap:hover .sidebar-menu-icon {
+  transform: rotate(360deg);
+}
+.sidebar-menu-icon {
+  background: url("../images/taichi.png") no-repeat center/80%;
+  transform: rotate(0deg);
+  transition: transform 1s ease;
+  pointer-events: none;
+}
+.sidebar-menu-link-dummy {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.sidebar-menu-link {
+  pointer-events: none;
+}
+.link-active {
+  background: var(--red-0);
+  border: 10px var(--color-wrap) double;
+  box-shadow: 0 0 10px 3px rgba(255,0,0,0.3);
+  opacity: 0.8;
+  transition: border opacity 0.5s ease;
+}
+.link-active:hover {
+  opacity: 1;
+}
+.link-active .sidebar-menu-link {
+  color: #fff;
+  opacity: 1;
+}
+.link-active .sidebar-menu-icon {
+  opacity: 1;
+  background: url("../images/taichi-fill.png") no-repeat center/80%;
+}
+.sidebar-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 50px;
+  height: 50px;
+  background-color: var(--color-wrap);
+  border-radius: 50%;
+  font-family: "iconfont";
+  box-shadow: 1px 2px 10px rgba(0,0,0,0.2);
+  z-index: 999;
+  transition: all 0.3s ease;
+}
+.sidebar-top img {
+  transition: all 0.3s ease;
+  animation: rotate-all 3s infinite;
+  animation-timing-function: linear;
+  opacity: 1;
+}
+.sidebar-top .arrow-up {
+  transition: all 0.3s ease;
+  opacity: 0;
+}
+.sidebar-top .arrow-up:before {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  color: var(--red-1);
+  font-size: 20px;
+  top: 0;
+  text-align: center;
+  line-height: 50px;
+}
+.sidebar-top:hover img {
+  opacity: 0;
+}
+.sidebar-top:hover .arrow-up {
+  opacity: 1;
+}
+.sidebar-toc {
+  width: 100%;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+.sidebar-toc-wrapper {
+  max-height: calc(100vh - 120px);
+  overflow: auto;
+}
+.sidebar-toc-wrapper::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+.sidebar-toc-wrapper {
+  color: var(--color-link);
+}
+.sidebar-toc-wrapper a,
+.sidebar-toc-wrapper span {
+  color: var(--color-link);
+  text-decoration: none;
+  opacity: 0.8;
+  transition: all 0.3s ease;
+}
+.sidebar-toc-wrapper a:hover,
+.sidebar-toc-wrapper span:hover {
+  color: var(--red-0);
+}
+.sidebar-toc-wrapper ol {
+  margin-left: 15px;
+  list-style: none;
+}
+.sidebar-toc-wrapper li {
+  margin: 10px 0;
+}
+.sidebar-toc-wrapper li:before {
+  content: "";
+  width: 5px;
+  height: 10px;
+  background: var(--color-h2-after);
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 11px;
+  box-shadow: 0 2px 12px var(--color-h2-after-shadow);
+  opacity: 0.5;
+  transition: all 0.3s ease;
+}
+.sidebar-toc-wrapper li:hover:before {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  opacity: 1;
+}
+.sidebar-toc-wrapper .toc-level-1 {
+  list-style: none;
+}
+.sidebar-toc-wrapper .toc-level-1:before {
+  display: none;
+}
+.sidebar-toc-wrapper .toc-level-1 >a {
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+}
+.sidebar-toc-wrapper .toc-child {
+  transform: scaleY(0);
+  height: 0;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  transform-origin: top;
+}
+.sidebar-toc-wrapper .toc-child >.toc-item:last-child {
+  margin-bottom: 0;
+}
+.sidebar-toc-wrapper .active>.toc-child {
+  height: auto;
+  transform: scaleY(1);
+}
+.sidebar-toc-wrapper .current>.toc-child {
+  height: auto;
+  transform: scaleY(1);
+}
+.sidebar-toc-wrapper .active>a {
+  color: var(--red-0);
+  opacity: 1;
+}
+.sidebar-toc-wrapper .active>a>span {
+  color: var(--red-0);
+  opacity: 1;
+}
+.sidebar-toc-wrapper .current>a {
+  color: var(--red-0);
+  opacity: 1;
+}
+.sidebar-toc-wrapper .current>a>span {
+  color: var(--red-0);
+  opacity: 1;
+}
+.toc-title {
+  letter-spacing: 2px;
+  color: var(--color-grey);
+  line-height: 1em;
+  font-weight: bold;
+  padding: 10px 0;
+}
+.toc-item {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.sidebar-btn-wrapper .sidebar-toc-btn,
+.sidebar-btn-wrapper .sidebar-common-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  background: var(--red-3);
+  color: #fff;
+  font-weight: bold;
+  box-shadow: 0 2px 12px rgba(255,78,106,0.55);
+  border-radius: 5px;
+  margin: 20px;
+  transition: all 0.3s ease;
+}
+[data-theme="dark"] .sidebar-btn-wrapper .sidebar-toc-btn,
+[data-theme="dark"] .sidebar-btn-wrapper .sidebar-common-btn {
+  filter: brightness(0.8);
+}
+.sidebar-btn-wrapper {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  right: 0;
+}
+.sidebar-btn-wrapper .current {
+  background: var(--red-1);
+}
+.sidebar-common-sidebar {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.sidebar-toc-sidebar {
+  width: 100%;
 }
 [data-theme="dark"] ::-webkit-scrollbar,
 [data-theme="dark"] ::-webkit-scrollbar-track {
